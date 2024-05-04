@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+***Currently stuck in local minima!***
+
 <!--
 **avnishere/avnishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
